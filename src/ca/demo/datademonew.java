@@ -9,7 +9,7 @@ public class datademonew {
 //			r(String name :names){
 //			 v   fv	System.out.println("Output is :" +names);
 //
-//				r(String name :names){
+//		  		r(String name :names){
 //					System.out.println("Output is :" +names);
 //
 //					r(String name :names){
