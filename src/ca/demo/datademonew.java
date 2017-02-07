@@ -6,6 +6,15 @@ public class datademonew {
 		String [] names={"meena","pihu","shewta","harman mam"};
 		for(String name :names){
 			System.out.println("Output is :" +names);
+//			r(String name :names){
+//				System.out.println("Output is :" +names);
+//
+//				r(String name :names){
+//					System.out.println("Output is :" +names);
+//
+//					r(String name :names){
+//						System.out.println("Output is :" +names);
+
 
 		}
 	}
