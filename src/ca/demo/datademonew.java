@@ -7,7 +7,7 @@ public class datademonew {
 		for(String name :names){
 			System.out.println("Output is :" +names);
 //			r(String name :names){
-//				System.out.println("Output is :" +names);
+//			 v   fv	System.out.println("Output is :" +names);
 //
 //				r(String name :names){
 //					System.out.println("Output is :" +names);
